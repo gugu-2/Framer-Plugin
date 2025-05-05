@@ -1,0 +1,4 @@
+rembg
+fastapi
+uvicorn
+python-multipart
